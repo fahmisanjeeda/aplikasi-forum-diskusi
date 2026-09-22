@@ -242,3 +242,4 @@ Berikut adalah Submission 2 saya untuk kelas "Menjadi React Web Developer Expert
 
 Terima kasih atas review yang diberikan!
 ```
+
