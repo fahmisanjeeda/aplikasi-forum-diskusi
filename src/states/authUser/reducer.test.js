@@ -21,7 +21,7 @@ describe('authUserReducer function', () => {
     const nextState = authUserReducer(initialState, action);
 
     // assert
-    expect(nextState).toEqual('TRIGGER_CI_FAILURE');
+    expect(nextState).toEqual(initialState);
   });
 
   it('should return the authUser when given by SET_AUTH_USER action', () => {
